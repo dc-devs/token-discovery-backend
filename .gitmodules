@@ -1,0 +1,3 @@
+[submodule "submodules/token-tracker"]
+	path = submodules/token-tracker
+	url = git@github.com:dc-devs/token-tracker.git
